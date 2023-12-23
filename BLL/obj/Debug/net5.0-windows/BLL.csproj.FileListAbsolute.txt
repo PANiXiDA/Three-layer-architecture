@@ -1,0 +1,4 @@
+C:\Users\mixai\source\repos\Практикум 24 II №8\BLL\obj\Debug\net5.0-windows\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mixai\source\repos\Практикум 24 II №8\BLL\obj\Debug\net5.0-windows\BLL.AssemblyInfoInputs.cache
+C:\Users\mixai\source\repos\Практикум 24 II №8\BLL\obj\Debug\net5.0-windows\BLL.AssemblyInfo.cs
+C:\Users\mixai\source\repos\Практикум 24 II №8\BLL\obj\Debug\net5.0-windows\BLL.csproj.CoreCompileInputs.cache

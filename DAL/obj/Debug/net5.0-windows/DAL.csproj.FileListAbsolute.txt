@@ -1,0 +1,5 @@
+C:\Users\mixai\source\repos\Практикум 24 II №8\DAL\obj\Debug\net5.0-windows\DAL.csproj.AssemblyReference.cache
+C:\Users\mixai\source\repos\Практикум 24 II №8\DAL\obj\Debug\net5.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mixai\source\repos\Практикум 24 II №8\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfoInputs.cache
+C:\Users\mixai\source\repos\Практикум 24 II №8\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfo.cs
+C:\Users\mixai\source\repos\Практикум 24 II №8\DAL\obj\Debug\net5.0-windows\DAL.csproj.CoreCompileInputs.cache
